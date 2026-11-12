@@ -1,9 +1,7 @@
-# Istiftaati updates
+# Istiftaati 1.1.0 — build 6
 
-Public installation/update packages only. No GitHub account or access token is required by the application to download these updates. The development repository is managed separately; this repository does not contain the development history or user library data.
+[Download the fixed update package](https://github.com/MahdiBAQER27/istiftaati-updates/releases/download/v1.1.0-preview/Istiftaati-Mac-Update-1.1.0-build-6.zip)
 
-Latest: **1.1.0 build 5**. Existing 1.1.0 installations should install the refreshed ZIP manually once to switch update channels.
+Install this immutable package manually once to migrate from earlier 1.1.0 builds. Future build packages use separate filenames, never overwritten. No GitHub account or token is needed by app users. Development repository visibility is unchanged until the owner installs the new updater.
 
-[Download update ZIP](https://github.com/MahdiBAQER27/istiftaati-updates/releases/download/v1.1.0-preview/Istiftaati-Mac-Update-1.1.0.zip)
-
-Electron update packages contain runtime application files; private development repository visibility does not make distributed application code unextractable.
+[Release notes and test limitations](https://github.com/MahdiBAQER27/istiftaati-updates/releases/tag/v1.1.0-preview)
